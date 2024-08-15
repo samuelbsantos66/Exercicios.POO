@@ -1,0 +1,14 @@
+C:\DevC\ConsoleAula04\obj\Debug\net8.0\ConsoleAula04.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevC\ConsoleAula04\obj\Debug\net8.0\ConsoleAula04.AssemblyInfoInputs.cache
+C:\DevC\ConsoleAula04\obj\Debug\net8.0\ConsoleAula04.AssemblyInfo.cs
+C:\DevC\ConsoleAula04\obj\Debug\net8.0\ConsoleAula04.csproj.CoreCompileInputs.cache
+C:\DevC\ConsoleAula04\bin\Debug\net8.0\ConsoleAula04.exe
+C:\DevC\ConsoleAula04\bin\Debug\net8.0\ConsoleAula04.deps.json
+C:\DevC\ConsoleAula04\bin\Debug\net8.0\ConsoleAula04.runtimeconfig.json
+C:\DevC\ConsoleAula04\bin\Debug\net8.0\ConsoleAula04.dll
+C:\DevC\ConsoleAula04\bin\Debug\net8.0\ConsoleAula04.pdb
+C:\DevC\ConsoleAula04\obj\Debug\net8.0\ConsoleAula04.dll
+C:\DevC\ConsoleAula04\obj\Debug\net8.0\refint\ConsoleAula04.dll
+C:\DevC\ConsoleAula04\obj\Debug\net8.0\ConsoleAula04.pdb
+C:\DevC\ConsoleAula04\obj\Debug\net8.0\ConsoleAula04.genruntimeconfig.cache
+C:\DevC\ConsoleAula04\obj\Debug\net8.0\ref\ConsoleAula04.dll
